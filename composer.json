@@ -1,0 +1,17 @@
+{
+  "name": "pc/test-framework",
+  "autoload": {
+    "psr-4": {
+      "Router\\": "routes/",
+      "App\\": "app/",
+      "Database\\": "database/"
+    }
+  },
+  "authors": [
+    {
+      "name": "fredouuce",
+      "email": "fredoox974@hotmail.fr"
+    }
+  ],
+  "require": {}
+}
